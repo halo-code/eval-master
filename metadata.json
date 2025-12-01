@@ -1,0 +1,5 @@
+{
+  "name": "EvalMaster MVP",
+  "description": "A professional evaluation platform for expert review of data records. Supports multi-dimension scoring and A/B comparison modes with progress tracking and CSV export.",
+  "requestFramePermissions": []
+}
